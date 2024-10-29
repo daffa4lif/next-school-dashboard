@@ -1,4 +1,4 @@
-import UserCard from "@/components/Admin/UserCard"
+import UserCard from "@/components/admin/UserCard"
 
 const AdminPage = () => {
   return (
