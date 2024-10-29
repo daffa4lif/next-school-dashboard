@@ -13,6 +13,14 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        mainSky: "#C3EBFA",
+        mainSkyLight: "#EDF9FD",
+        mainPurple: "#CFCEFF",
+        mainPurpleLight: "#F1F0FF",
+        mainYellow: "#FAE27C",
+        mainYellowLight: "#FEFCE8"
+      }
     },
   },
   plugins: [],
